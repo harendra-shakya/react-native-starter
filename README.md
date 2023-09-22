@@ -1,4 +1,4 @@
-# A React Native Tailwind Firebase Ts Start By Harendra
+# A React Native Tailwind Firebase Ts Starter By Harendra
 
 Start expo server
 
